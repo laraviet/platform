@@ -11,4 +11,14 @@ yarn-error.log
 .phpunit.result.cache
 .php_cs.cache
 .idea
-Modules
+/public/modules
+/Modules/Core
+/Modules/Dashboard
+/Modules/Media
+/Modules/Menu
+/Modules/Page
+/Modules/Setting
+/Modules/Tag
+/Modules/Translation
+/Modules/User
+/Modules/Workshop
